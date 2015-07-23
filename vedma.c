@@ -2,7 +2,7 @@
  * vestkyne pro Adama
  * wykys 2015
  * verze: 1.0
- * program se snazi uhodnout, na ktere cislu uzivatel mysli
+ * program se snazi uhodnout, na ktere cislo uzivatel mysli
  * ovladani:
  * souhlas pomoci: A, a, J, j, Y, y
  * nesouhlas pmoci libololneho jineho znaku napr.: N, n
