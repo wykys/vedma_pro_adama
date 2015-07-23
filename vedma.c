@@ -79,7 +79,7 @@ int zjisti(int cislo, int min, int max, int old)
 	{
 		max = cislo;
 		cislo -= (cislo-min)/2;
-		if (cislo == odl && cislo < 5 && min != max)
+		if (cislo == old && cislo < 5 && min != max)
 		{			
 			cislo--;
 		}
